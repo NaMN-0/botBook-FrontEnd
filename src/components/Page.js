@@ -24,7 +24,7 @@ class Page extends Component{
             allPosts : [],
             searchResult : {},
         };
-        this.urlb = "https://murmuring-springs-99560.herokuapp.com";
+        this.urlb = "https://botbook-backend-0.herokuapp.com/";
     }
 
     //Functions
